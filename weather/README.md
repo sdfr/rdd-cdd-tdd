@@ -6,7 +6,7 @@ The repository contains a small Node.js application that displays weather foreca
 ## Table of content
 
 - [Installation](#installation)
-    - [Node.js](#install-node.js)
+    - [Node.js](#install-node-js)
     - [dependencies](#install-npm-dependencies)
 - [Usage](#Usage)
     - [Steps](#steps)

@@ -29,6 +29,7 @@ In your console, move to the folder of your repository and write the command lin
 $ npm install
 ```
 
+
 ## Usage
 
 ### Steps
@@ -44,9 +45,11 @@ You can also add C or F to force the application to display in Celsius or Farenh
 
 [![demo](https://github.com/sdfr/rdd-cdd-tdd/blob/master/weather/Capture.PNG)](http://github.com/)
 
+
 ## License
 
 Uncopyrighted
+
 
 ## Links
 

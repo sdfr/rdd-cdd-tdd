@@ -25,12 +25,16 @@ const cli = meow({
 	]
 });
 
+//The input temperature is converted into degree Celsius
 function _toCelcius(temp) {
 	return Math.round(((temp - 32) * 5) / 9);
 }
 
 updateNotifier({ pkg}).notify();
 
+//The city input in the console is used to collect the corresponding weahter forecast and the function 
+//deals with each case of use of attributes (C for Celsius and F for Farenheit)
+//Finally displays the result
 weather(cli.input, (err, result) => {
 	if (err) {
 		console.log(chalk.bold.red(err));

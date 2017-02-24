@@ -3,6 +3,7 @@
 const YQL = require('yql');
 const _ = require('lodash');
 
+//Collect the data we need to display the weather forecast of a city
 module.exports = (opts, callback) => {
 	opts = opts || [];
 

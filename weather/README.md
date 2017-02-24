@@ -1,7 +1,7 @@
 Weather
 ======================
 
-The repository contains a small Node.js application that displays weather forecast of a given city.
+The repository contains a small Node.js application that displays the weather forecast of a given city.
 
 
 ## Table of content
